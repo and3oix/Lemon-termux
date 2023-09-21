@@ -18,7 +18,7 @@ echo '
                                    github.com/h4ck3r0
                            
 ' | lolcat                           
- echo -e "\e[1;31m [\e[32m√\e[31m] \e[1;91m by \e[1;36mRaj Aryan \e[93m/ \e[100;92m Youtube.com/c/H4Ck3R0\e[0m"
+ echo -e "\e[1;31m [\e[32m√\e[31m] \e[1;91m by \e[1;36mMohammed \e[93m/ \e[100;92m Youtube.com/@Andr3oix\e[0m"
  echo -e "\e[34m[\e[92m✓\e[34m]\033[92m INSTALLING REQUIREED PACKAGES"
  sleep 6.0
  apt install nodejs nano yarn -y
